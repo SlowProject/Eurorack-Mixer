@@ -1,0 +1,14 @@
+Mixer Eurorack mlm vs1;;
+Quantity;Name;Designator
+1;27pF;C1
+1;47pF;C2
+4;100nF;C3,C4,C5,C6
+2;10uF electrolitic 25-50V;C7,C8
+2;TL072;IC1,IC2
+6;THONKICONN;J1,J2,J3,J4,J5,J6
+2;LED-3MM;LED1,LED2
+1;EURORACK PWR;Eurorack power connector 10 pin
+5;100k?;POT1,POT2,POT3,POT4,POT5
+6;100k?;R1,R2,R3,R4,R5,R6
+3;1k?;R7,R8,R9
+1;4.7k?;R10
